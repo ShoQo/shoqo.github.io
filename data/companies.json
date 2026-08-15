@@ -123,7 +123,7 @@
       "id": "mckinsey",
       "name": "McKinsey & Company",
       "industry": "Consulting",
-      "logo": null,
+      "logo": "assets/logos/mckinsey.svg",
       "url": "https://www.mckinsey.com/careers/search-jobs",
       "scraper": {
         "module": "mckinsey",
