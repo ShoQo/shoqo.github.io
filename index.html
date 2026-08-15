@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Board</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Job Board</h1>
+  <nav>
+    <a href="index.html" aria-current="page">Jobs</a>
+    <a href="companies.html">Companies</a>
+  </nav>
+  <p id="meta">Loading…</p>
+</header>
+
+<main>
+  <input id="search" type="search" placeholder="Filter by title, company, or location">
+
+  <div id="filters">
+    <fieldset id="filter-type"><legend>Position</legend></fieldset>
+    <fieldset id="filter-industry"><legend>Industry</legend></fieldset>
+  </div>
+
+  <ul id="jobs"></ul>
+</main>
+
+<script src="lib.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

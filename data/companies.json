@@ -1,0 +1,147 @@
+{
+  "companies": [
+    {
+      "id": "goldman-sachs",
+      "name": "Goldman Sachs",
+      "industry": "Investment Banking",
+      "logo": "assets/logos/goldman-sachs.svg",
+      "url": "https://higher.gs.com/results?&page=1&sort=RELEVANCE",
+      "scraper": {
+        "module": "oracle_recruiting",
+        "options": {
+          "host": "hdpc.fa.us2.oraclecloud.com",
+          "site_number": "CX_2",
+          "job_url_template": "https://higher.gs.com/roles/{id}",
+          "countries": ["JP"],
+          "queries": [
+            {
+              "label": "Internship",
+              "categories": ["Summer Analyst", "Summer Associate", "Seasonal"]
+            },
+            {
+              "label": "Full-time, entry level",
+              "categories": ["Analyst"]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "morgan-stanley",
+      "name": "Morgan Stanley",
+      "industry": "Investment Banking",
+      "logo": "assets/logos/morgan-stanley.svg",
+      "url": "https://morganstanley.eightfold.ai/careers?domain=morganstanley.com",
+      "scrapers": [
+        {
+          "module": "eightfold",
+          "options": {
+            "host": "morganstanley.eightfold.ai",
+            "domain": "morganstanley.com",
+            "queries": [
+              {
+                "label": "Full-time, entry level",
+                "filters": {
+                  "country": ["Japan"],
+                  "pcsjoblevel": ["professional"]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "module": "talent_nexus",
+          "options": {
+            "host": "morganstanley.tal.net",
+            "board": 1,
+            "cities": ["Tokyo"],
+            "queries": [
+              {
+                "label": "Internship",
+                "title_include": "Internship|Summer|Off-Cycle|Placement|Insight"
+              },
+              {
+                "label": "Full-time, entry level"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bcg",
+      "name": "Boston Consulting Group",
+      "industry": "Consulting",
+      "logo": "assets/logos/bcg.svg",
+      "url": "https://careers.bcg.com/global/en/search-results",
+      "scraper": {
+        "module": "phenom",
+        "options": {
+          "host": "careers.bcg.com",
+          "queries": [
+            {
+              "label": "Internship",
+              "filters": { "country": ["Japan"] },
+              "title_include": "Intern(?!ational)|インターン"
+            },
+            {
+              "label": "Full-time",
+              "filters": { "country": ["Japan"] }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "bain",
+      "name": "Bain & Company",
+      "industry": "Consulting",
+      "logo": "assets/logos/bain.svg",
+      "url": "https://www.bain.com/careers/find-a-role/?filters=offices(268)|",
+      "scraper": {
+        "module": "bain",
+        "options": {
+          "location_label": "Tokyo",
+          "queries": [
+            {
+              "label": "Internship",
+              "filters": { "employmenttype": ["E50", "E10"], "offices": ["268"] }
+            },
+            {
+              "label": "Program",
+              "filters": { "employmenttype": ["E2510"], "offices": ["268"] }
+            },
+            {
+              "label": "Full-time",
+              "filters": { "employmenttype": ["E00"], "offices": ["268"] }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "mckinsey",
+      "name": "McKinsey & Company",
+      "industry": "Consulting",
+      "logo": null,
+      "url": "https://www.mckinsey.com/careers/search-jobs",
+      "scraper": {
+        "module": "mckinsey",
+        "options": {
+          "location_label": "Tokyo",
+          "queries": [
+            {
+              "label": "Internship",
+              "filters": { "cities": ["Tokyo"] },
+              "title_include": "Intern(?!ational)|Fellow|インターン"
+            },
+            {
+              "label": "Full-time",
+              "filters": { "cities": ["Tokyo"] }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
