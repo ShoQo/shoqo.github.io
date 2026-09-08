@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-09-07T10:55:37Z",
+  "updated_at": "2026-09-08T10:12:45Z",
   "jobs": [
+    {
+      "id": "goldman-sachs:181614",
+      "company_id": "goldman-sachs",
+      "title": "Global Banking & Markets, Investment Banking Division, Advisory Group, Analyst, Tokyo",
+      "url": "https://higher.gs.com/roles/181614",
+      "location": "Minato-Ku, Tokyo, Japan",
+      "type": "Full-time, entry level",
+      "posted_at": "2026-09-08",
+      "last_seen": "2026-09-08T10:12:45Z"
+    },
+    {
+      "id": "morgan-stanley:549798719545",
+      "company_id": "morgan-stanley",
+      "title": "Associate, Fixed Income Operations, Tokyo/Osaka",
+      "url": "https://morganstanley.eightfold.ai/careers/job/549798719545?domain=morganstanley.com",
+      "location": "Tokyo, Japan, Osaka, Osaka, Japan",
+      "type": "Full-time, entry level",
+      "posted_at": "2026-09-08",
+      "last_seen": "2026-09-08T10:12:45Z"
+    },
+    {
+      "id": "morgan-stanley:549799454765",
+      "company_id": "morgan-stanley",
+      "title": "Investment Banking Division - Analyst Assistant, FIG Coverage (Tokyo)",
+      "url": "https://morganstanley.eightfold.ai/careers/job/549799454765?domain=morganstanley.com",
+      "location": "Tokyo, Japan",
+      "type": "Full-time, entry level",
+      "posted_at": "2026-09-07",
+      "last_seen": "2026-09-08T10:12:45Z"
+    },
     {
       "id": "bcg:BCG1US58626EXTERNALENGLOBAL",
       "company_id": "bcg",
@@ -9,7 +39,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-09-04",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US59326EXTERNALENGLOBAL",
@@ -19,7 +49,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-09-04",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549798393064",
@@ -29,7 +59,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-09-03",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549799394434",
@@ -39,7 +69,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-09-02",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549799204872",
@@ -49,7 +79,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-09-01",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "goldman-sachs:183403",
@@ -59,7 +89,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-09-01",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US59281EXTERNALENGLOBAL",
@@ -69,7 +99,7 @@
       "location": "Tokyo, Japan, Fukuoka, Japan, Kyoto, Japan, Nagoya, Japan, Osaka, Japan",
       "type": "Full-time",
       "posted_at": "2026-08-31",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549796140568",
@@ -79,7 +109,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-08-28",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549797638786",
@@ -89,7 +119,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-08-27",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549799559160",
@@ -99,7 +129,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-08-24",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "goldman-sachs:182621",
@@ -109,7 +139,7 @@
       "location": "Tokyo, Japan",
       "type": "Internship",
       "posted_at": "2026-08-24",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "goldman-sachs:182622",
@@ -119,7 +149,7 @@
       "location": "Tokyo, Japan",
       "type": "Internship",
       "posted_at": "2026-08-24",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "goldman-sachs:182635",
@@ -129,7 +159,7 @@
       "location": "Tokyo, Japan",
       "type": "Internship",
       "posted_at": "2026-08-24",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549799565694",
@@ -139,17 +169,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-08-14",
-      "last_seen": "2026-09-06T09:50:07Z"
-    },
-    {
-      "id": "morgan-stanley:549798719545",
-      "company_id": "morgan-stanley",
-      "title": "Associate, Fixed Income Operations, Tokyo",
-      "url": "https://morganstanley.eightfold.ai/careers/job/549798719545?domain=morganstanley.com",
-      "location": "Tokyo, Japan",
-      "type": "Full-time, entry level",
-      "posted_at": "2026-08-14",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549799530914",
@@ -159,7 +179,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-08-13",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US59072EXTERNALENGLOBAL",
@@ -169,7 +189,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-08-13",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549797328598",
@@ -179,7 +199,7 @@
       "location": "Tokyo, Japan, Osaka, Osaka, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-08-12",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US57747EXTERNALENGLOBAL",
@@ -189,7 +209,7 @@
       "location": "Tokyo, Japan",
       "type": "Internship",
       "posted_at": "2026-08-12",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "goldman-sachs:181358",
@@ -199,7 +219,7 @@
       "location": "Minato-Ku, Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-08-10",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549797702781",
@@ -209,7 +229,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-08-07",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549799464829",
@@ -219,7 +239,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-08-06",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549798644766",
@@ -229,7 +249,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-08-06",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US58963EXTERNALENGLOBAL",
@@ -239,7 +259,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-08-04",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549799464846",
@@ -249,17 +269,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-08-04",
-      "last_seen": "2026-09-06T09:50:07Z"
-    },
-    {
-      "id": "morgan-stanley:549799454765",
-      "company_id": "morgan-stanley",
-      "title": "Analyst Assistant, FIG Coverage, Investment Banking Division",
-      "url": "https://morganstanley.eightfold.ai/careers/job/549799454765?domain=morganstanley.com",
-      "location": "Tokyo, Japan",
-      "type": "Full-time, entry level",
-      "posted_at": "2026-08-03",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549798642102",
@@ -269,7 +279,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-07-30",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "goldman-sachs:180204",
@@ -279,7 +289,7 @@
       "location": "Minato-Ku, Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-07-27",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549796886869",
@@ -289,7 +299,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-07-23",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549799115162",
@@ -299,7 +309,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-07-23",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549798120576",
@@ -309,7 +319,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-07-22",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549782984893",
@@ -319,7 +329,7 @@
       "location": "Osaka, Osaka, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-07-17",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "goldman-sachs:174640",
@@ -329,7 +339,7 @@
       "location": "Minato-Ku, Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-07-14",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US57808EXTERNALENGLOBAL",
@@ -339,7 +349,7 @@
       "location": "Tokyo, Japan, Fukuoka, Japan, Kyoto, Japan, Nagoya, Japan, Osaka, Japan",
       "type": "Full-time",
       "posted_at": "2026-07-10",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US57807EXTERNALENGLOBAL",
@@ -349,7 +359,7 @@
       "location": "Tokyo, Japan, Fukuoka, Japan, Kyoto, Japan, Nagoya, Japan, Osaka, Japan",
       "type": "Internship",
       "posted_at": "2026-07-10",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US58408EXTERNALENGLOBAL",
@@ -359,7 +369,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-06-29",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "goldman-sachs:177769",
@@ -369,7 +379,7 @@
       "location": "Minato-Ku, Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-06-26",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549797735393",
@@ -379,7 +389,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-06-24",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549798277380",
@@ -389,7 +399,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-06-24",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549797051452",
@@ -399,7 +409,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-06-22",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US56289EXTERNALENGLOBAL",
@@ -409,7 +419,7 @@
       "location": "Tokyo, Japan, Fukuoka, Japan, Kyoto, Japan, Nagoya, Japan, Osaka, Japan",
       "type": "Full-time",
       "posted_at": "2026-06-17",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549797798679",
@@ -419,17 +429,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-06-04",
-      "last_seen": "2026-09-06T09:50:07Z"
-    },
-    {
-      "id": "goldman-sachs:175254",
-      "company_id": "goldman-sachs",
-      "title": "Corporate Treasury, Liquidity Execution, Analyst, Tokyo",
-      "url": "https://higher.gs.com/roles/175254",
-      "location": "Minato-Ku, Tokyo, Japan",
-      "type": "Full-time, entry level",
-      "posted_at": "2026-06-02",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US58247EXTERNALENGLOBAL",
@@ -439,7 +439,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-05-29",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US58006EXTERNALENGLOBAL",
@@ -449,7 +449,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-05-07",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549797654964",
@@ -459,7 +459,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-05-07",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "goldman-sachs:161037",
@@ -469,7 +469,7 @@
       "location": "Tokyo, Japan",
       "type": "Internship",
       "posted_at": "2026-05-07",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549797598132",
@@ -479,7 +479,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-05-01",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549797314550",
@@ -489,7 +489,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-04-16",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US56359EXTERNALENGLOBAL",
@@ -499,7 +499,7 @@
       "location": "Tokyo, Japan, Fukuoka, Japan, Kyoto, Japan, Nagoya, Japan, Osaka, Japan",
       "type": "Full-time",
       "posted_at": "2026-04-10",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US56361EXTERNALENGLOBAL",
@@ -509,7 +509,7 @@
       "location": "Tokyo, Japan, Fukuoka, Japan, Kyoto, Japan, Nagoya, Japan, Osaka, Japan",
       "type": "Full-time",
       "posted_at": "2026-04-10",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US56291EXTERNALENGLOBAL",
@@ -519,7 +519,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-04-09",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US56292EXTERNALENGLOBAL",
@@ -529,7 +529,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-04-09",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US56290EXTERNALENGLOBAL",
@@ -539,7 +539,7 @@
       "location": "Tokyo, Japan, Fukuoka, Japan, Kyoto, Japan, Nagoya, Japan, Osaka, Japan",
       "type": "Full-time",
       "posted_at": "2026-04-08",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US57716EXTERNALENGLOBAL",
@@ -549,7 +549,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-04-08",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "goldman-sachs:167477",
@@ -559,7 +559,7 @@
       "location": "Minato-Ku, Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-03-30",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549796850674",
@@ -569,7 +569,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-03-24",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "goldman-sachs:164670",
@@ -579,7 +579,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2026-03-09",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US56659EXTERNALENGLOBAL",
@@ -589,7 +589,7 @@
       "location": "Tokyo, Japan, Fukuoka, Japan, Kyoto, Japan, Nagoya, Japan, Osaka, Japan",
       "type": "Full-time",
       "posted_at": "2026-02-04",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US56373EXTERNALENGLOBAL",
@@ -599,7 +599,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-01-12",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US56374EXTERNALENGLOBAL",
@@ -609,7 +609,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-01-12",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US56415EXTERNALENGLOBAL",
@@ -619,7 +619,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-01-12",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US56313EXTERNALENGLOBAL",
@@ -629,7 +629,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-01-12",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US56312EXTERNALENGLOBAL",
@@ -639,7 +639,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-01-12",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US56371EXTERNALENGLOBAL",
@@ -649,7 +649,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-01-12",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US56372EXTERNALENGLOBAL",
@@ -659,7 +659,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2026-01-12",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US56360EXTERNALENGLOBAL",
@@ -669,7 +669,7 @@
       "location": "Tokyo, Japan, Fukuoka, Japan, Kyoto, Japan, Nagoya, Japan, Osaka, Japan",
       "type": "Full-time",
       "posted_at": "2026-01-08",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549784053059",
@@ -679,7 +679,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2025-12-11",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "morgan-stanley:549794379310",
@@ -689,7 +689,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time, entry level",
       "posted_at": "2025-10-20",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US55399EXTERNALENGLOBAL",
@@ -699,7 +699,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2025-09-25",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "goldman-sachs:170818",
@@ -709,7 +709,7 @@
       "location": "Tokyo, Japan",
       "type": "Internship",
       "posted_at": "2025-07-01",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "goldman-sachs:170821",
@@ -719,7 +719,7 @@
       "location": "Tokyo, Japan",
       "type": "Internship",
       "posted_at": "2025-07-01",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US53128EXTERNALENGLOBAL",
@@ -729,7 +729,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2025-03-28",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US52603EXTERNALENGLOBAL",
@@ -739,7 +739,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2025-03-17",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US52602EXTERNALENGLOBAL",
@@ -749,7 +749,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2025-03-17",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "bcg:BCG1US52597EXTERNALENGLOBAL",
@@ -759,7 +759,7 @@
       "location": "Tokyo, Japan",
       "type": "Full-time",
       "posted_at": "2025-03-17",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:105277",
@@ -769,7 +769,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Tech & AI",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:105977",
@@ -779,7 +779,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:102410",
@@ -789,7 +789,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Implementation",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:102293",
@@ -799,7 +799,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Implementation",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:110844",
@@ -809,7 +809,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Legal",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:109725",
@@ -819,7 +819,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Finance",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:101372",
@@ -829,7 +829,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "People & HR",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:110268",
@@ -839,17 +839,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "People & HR",
-      "last_seen": "2026-09-07T10:55:37Z"
-    },
-    {
-      "id": "mckinsey:111468",
-      "company_id": "mckinsey",
-      "title": "Manager - Professional Development",
-      "url": "https://www.mckinsey.com/careers/search-jobs/jobs/manager-professionaldevelopment-111468",
-      "location": "Tokyo",
-      "type": "Full-time",
-      "interest": "People & HR",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:110473",
@@ -859,7 +849,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:105566",
@@ -869,7 +859,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:109997",
@@ -879,7 +869,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:102226",
@@ -889,7 +879,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Transformation & Turnaround",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:107739",
@@ -899,7 +889,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:107738",
@@ -909,7 +899,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:20159",
@@ -919,7 +909,7 @@
       "location": "Tokyo + 51 offices",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:103724",
@@ -929,7 +919,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Global Administration",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:107284",
@@ -939,7 +929,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:105275",
@@ -949,7 +939,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Analytics",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:105274",
@@ -959,7 +949,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Analytics",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:108992",
@@ -969,7 +959,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Legal",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:107584",
@@ -979,7 +969,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Global Administration",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:110941",
@@ -989,7 +979,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Technology & Digital",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:109605",
@@ -999,7 +989,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Global Administration",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:102411",
@@ -1009,7 +999,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:110659",
@@ -1019,7 +1009,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Tech & AI",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:104200",
@@ -1029,7 +1019,7 @@
       "location": "Tokyo",
       "type": "Full-time",
       "interest": "Analytics",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:15275",
@@ -1039,7 +1029,7 @@
       "location": "Tokyo + 97 offices",
       "type": "Internship",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:102602",
@@ -1049,7 +1039,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:108709",
@@ -1059,7 +1049,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:15136",
@@ -1069,7 +1059,7 @@
       "location": "Tokyo + 108 offices",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:103569",
@@ -1079,7 +1069,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:94349",
@@ -1089,7 +1079,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:93332",
@@ -1099,7 +1089,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:14918",
@@ -1109,7 +1099,7 @@
       "location": "Tokyo + 87 offices",
       "type": "Internship",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:105279",
@@ -1119,7 +1109,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Tech & AI",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:102413",
@@ -1129,7 +1119,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:102224",
@@ -1139,7 +1129,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Transformation & Turnaround",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:106023",
@@ -1149,7 +1139,7 @@
       "location": "Tokyo + 1 offices",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     },
     {
       "id": "mckinsey:15178",
@@ -1159,25 +1149,7 @@
       "location": "Tokyo + 112 offices",
       "type": "Full-time",
       "interest": "Consulting",
-      "last_seen": "2026-09-07T10:55:37Z"
-    },
-    {
-      "id": "morgan-stanley:21332",
-      "company_id": "morgan-stanley",
-      "title": "2027 Japan Summer Analyst Program (Tokyo)",
-      "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21332-2027-Japan-Summer-Analyst-Program-Tokyo/en-GB",
-      "location": "Tokyo",
-      "type": "Internship",
-      "last_seen": "2026-09-06T09:50:07Z"
-    },
-    {
-      "id": "morgan-stanley:21333",
-      "company_id": "morgan-stanley",
-      "title": "2027 Investment Banking Summer Associate Program (Tokyo)",
-      "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21333-2027-Investment-Banking-Summer-Associate-Program-Tokyo/en-GB",
-      "location": "Tokyo",
-      "type": "Internship",
-      "last_seen": "2026-09-06T09:50:07Z"
+      "last_seen": "2026-09-08T10:12:45Z"
     }
   ]
 }
